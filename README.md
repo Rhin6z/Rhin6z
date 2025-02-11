@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Rhin6z.Rhin6z)
+![Profile views](https://visitor-badge.laobi.icu//badge?page_id=Rhin6z.Rhin6z)
 [![Github](https://img.shields.io/github/followers/Rhin6z?label=Follow&style=social)](https://github.com/Rhin6z)
 
 <div size='20px'> Yo! My name is Gilang. Thank You for taking the time to view my GitHub Profile :smile:
@@ -43,7 +43,6 @@
 <br>
   <br>
 
- ![Rhin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Rhin6z&theme=redical&hide_border=true&area=true)
 | ![Rhin's github stats](https://github-readme-stats.vercel.app/api?username=Rhin6z&show_icons=true&theme=radical)             | ![Rhin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rhin6z&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhin6z&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Rhin6z&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
