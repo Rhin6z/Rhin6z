@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.laobi.icu//badge?page_id=Rhin6z.Rhin6z)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Rhin6z.visitor-badge)
 [![Github](https://img.shields.io/github/followers/Rhin6z?label=Follow&style=social)](https://github.com/Rhin6z)
 
 <div size='20px'> Yo! My name is Gilang. Thank You for taking the time to view my GitHub Profile :smile:
