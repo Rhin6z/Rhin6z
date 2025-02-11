@@ -43,9 +43,15 @@
 <br>
   <br>
 
+<<<<<<< HEAD
 | ![Rhin's github stats](https://github-readme-stats.vercel.app/api?username=Rhin6z&show_icons=true&theme=radical&layout=compact)             | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhin6z&langs_count=8&theme=radical&layout=compact)                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------- | 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhin6z&langs_count=8&theme=radical&layout=compact) |
+=======
+| ![Rhin's github stats](https://github-readme-stats.vercel.app/api?username=Rhin6z&show_icons=true&theme=radical)             |                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhin6z&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Rhin6z&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+>>>>>>> parent of 2f4e870 (Update README.md)
 
 <h2> Jokes raja ngoding <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
