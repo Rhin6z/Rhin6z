@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Developers! 👋</h1>
+<h1 align="center">Hello, Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <p align="center">
   I'm Gilang, a passionate software developer who loves building cool stuff! 🚀  
 </p>
