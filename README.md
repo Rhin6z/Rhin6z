@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" width="32px">
   <!-- Icon tambahan untuk IoT dan Jaringan -->
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg" width="32px" title="IoT">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/OpenWrt_Logo.svg" width="32px" title="OpenWrt">
+  <img src="https://pouch.jumpshare.com/preview/uGUtDb8pYc-Q4RLjxa48yR2e2gbz4Rxk5ZVGCQNIazzLeMexsTJqI_OK2bZZT0fyzkcN_-1oJWDpEzq0RS3-M5RCWl4CsylTGVHfXDy9o0M" width="32px" title="OpenWrt">
 </p>
 
 > *Familiar with:* React, C++, SQLite, TailwindCSS, OpenWrt, and IoT solutions
