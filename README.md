@@ -12,11 +12,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently study and working some projects
+- 🔭 I’m currently studying, working on some projects, and looking for an internship.  
 
-- 🌱 I’m currently learning Data Science,Laravel,Git
+- 🌱 I’m currently learning Data Science, Laravel, and Git.  
 
-- 💬 Talk to me about PHP, JavaScript, Laravel
+- 💬 Talk to me about PHP, JavaScript, and Laravel.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Rhin6z?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
