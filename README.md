@@ -5,7 +5,7 @@
   I'm Gilang, a passionate software developer who loves building cool stuff! 🚀
 </p>
 <p align="center">
-<img src="https://media1.tenor.com/m/urChzCzOV3QAAAAC/kaoru-hana-wa-rin-to-saku-the-fragrant-flower.gif" width="200px">
+<img src="https://akmweb.youngjoygame.com/web/kylearchangel/image/d13de143d7ae78e2aff421fe78845187.jpg">
 </p>
 
 ---
